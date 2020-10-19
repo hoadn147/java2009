@@ -1,0 +1,23 @@
+#cms_edu{
+   color:red;
+    width: 40%;
+    text-transform: uppercase;
+    
+}
+.tam{
+text-shadow: gray;
+
+}
+.login{
+    text-align: center;
+    color: red;
+}
+.nut{
+    background-color:red; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
